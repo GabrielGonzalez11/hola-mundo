@@ -7,6 +7,6 @@ i love 🇦🇷
 
 mi ultima linea en mi repositorio
 
-una nueva actividad
+nueva actividad
 
 finalizando con github
